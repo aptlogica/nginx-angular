@@ -1,4 +1,4 @@
-#Mainteners Aptlogica Technologies
+#Maintainers Aptlogica Technologies
 FROM nginx:alpine
 
 #Adding custom config file can be updated in nginx-conf foler
